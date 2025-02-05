@@ -1,3 +1,5 @@
+# Time Complexity: O(N)
+# Space Complexity: O(1)
 class Solution:
     def areAlmostEqual(self, s1: str, s2: str) -> bool:
         # Variables to track the indices of differing characters and the number of differences
